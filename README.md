@@ -107,6 +107,12 @@ Actualmente trabajando en mejorar la estructura y optimizar funcionalidades. (Mi
 
 ---
   
+<div align="center">
+  
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Gracias+por+la+visita!)
+
+  ![VictoriaVMC-Fin](https://github.com/victoriavmc/victoriavmc/blob/master/Umaru.jpg)
+  
+</div> 
 
 ---
