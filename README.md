@@ -41,6 +41,8 @@
     🤝 Habilidades Blandas  
   </summary>
 
+  <br>
+
   - ⌚ Autogestión y gestión del tiempo  
   - 💬 Comunicación efectiva  
   - 🧐 Adaptabilidad  
@@ -52,20 +54,25 @@
 
 <details>
   <summary> 🛠️ Habilidades Técnicas  </summary>
-  
-  | *Categoría*                 | *Aplicada en*                                                           |
-  |-------------------------------|---------------------------------------------------------------------------|
-  | *Sistemas Operativos*       | Windows, Linux                                                            |
-  | *Lenguajes de Programación* | PHP, Python                                                               |
-  | *Frontend*                  | HTML, CSS, Tkinter, TailwindCSS                                           |
-  | *Bases de Datos*            | MySQL, JSON                                                               |
-  | *Herramientas*              | Git & GitHub, VSCode, PyCharm, XAMPP/WAMP/APACHE, MySQL Workbench, Trello |
-  | *Metodologías*              | Scrum, Kanban                                                             |  
+
+  <br>
+    
+  | *Categoría*                 | *Aplicada en*                                                                       | *Logos*                        |
+  |-----------------------------|-------------------------------------------------------------------------------------|--------------------------------|
+  | *Sistemas Operativos*       | Windows, Linux                                                                      |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  | *Lenguajes de Programación* | PHP (Laravel), Python                                                               |![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  | *Frontend*                  | HTML, CSS, Tkinter, TailwindCSS                                                     |![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-Python%20GUI-blue?style=flat-square&logo=python&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  | *Bases de Datos*            | MySQL, JSON                                                                         |![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-Data%20Exchange-orange?style=flat-square&logo=json&logoColor=white)
+  | *Herramientas*              | Git & GitHub, VSCode, PyCharm, XAMPP/WAMP, MySQL Workbench, Trello, Composer           |![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![XAMPP](https://img.shields.io/badge/XAMPP-Localhost-orange?style=flat-square&logo=xampp&logoColor=white) ![WAMP](https://img.shields.io/badge/WAMP-Windows%20Apache-green?style=flat-square&logo=apache&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-Database-blue?style=flat-square&logo=mysql&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-PHP-blueviolet?style=flat-square&logo=composer&logoColor=white)
+  | *Metodologías*              | Scrum, Kanban                                                                       |  ![Scrum](https://img.shields.io/badge/Scrum-Agile-green?style=flat-square&logo=agile&logoColor=white) ![Kanban](https://img.shields.io/badge/Kanban-Agile-blue?style=flat-square&logo=agile&logoColor=white)
+
 </details>
 
 <details>
   <summary>📊 Estadisticas </summary>
 
+  <br>
+    
   ![VictoriaVMC-GitHubStats1](https://github-readme-streak-stats.herokuapp.com/?user=victoriavmc&theme=dark&locale=es)
   ![VictoriaVMC-GitHubStats2](https://github-readme-stats.vercel.app/api?username=victoriavmc&show_icons=true&locale=es&theme=dark&rank_icon=github)
   ![VictoriaVMC-Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriavmc&layout=compact&locale=es&theme=dark)
