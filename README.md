@@ -1,5 +1,10 @@
-# ¡Bienvenido a Mi GitHub! 👋  
-![VictoriaVMC-Banner](https://github.com/victoriavmc/victoriavmc/blob/master/banner.png)  
+<div align="center">
+
+  # ¡Bienvenido a Mi GitHub! 👋  
+
+</div>
+
+![VictoriaVMC-Banner](https://github.com/victoriavmc/victoriavmc/blob/master/banner2.png)  
 
 <table>
   <tr>
@@ -111,7 +116,7 @@ Actualmente trabajando en mejorar la estructura y optimizar funcionalidades. (Mi
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Gracias+por+la+visita!)
 
-  ![VictoriaVMC-Fin](https://github.com/victoriavmc/victoriavmc/blob/master/Umaru.jpg)
+  ![VictoriaVMC-Fin](https://github.com/victoriavmc/victoriavmc/blob/master/perropepsi.jpeg)
   
 </div> 
 
