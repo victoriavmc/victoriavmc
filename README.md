@@ -78,7 +78,7 @@
 
   <br>
     
-  ![VictoriaVMC-GitHubStats1](https://github-readme-streak-stats.herokuapp.com/?user=victoriavmc&theme=dark&locale=es)
+  ![VictoriaVMC-GitHubStats1](https://github-readme-streak-stats-phi-opal.vercel.app/?user=victoriavmc&theme=dark&locale=es)
   ![VictoriaVMC-GitHubStats2](https://github-readme-stats.vercel.app/api?username=victoriavmc&show_icons=true&locale=es&theme=dark&rank_icon=github)
   ![VictoriaVMC-Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriavmc&layout=compact&locale=es&theme=dark)
 
