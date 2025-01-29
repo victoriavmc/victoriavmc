@@ -105,10 +105,8 @@ Crear una plataforma interactiva y escalable para gestionar contenido, eventos y
 ### 🛠️ Tecnologías  
 - **PHP**, **Laravel**, **TailwindCSS**.  
 
-### 🌱 Estado actual  
-Actualmente trabajando en mejorar la estructura y optimizar funcionalidades. (Migrando a Livewire)
-
-[![VictoriaVMC-SantiagoN.Aranda-Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=victoriavmc&repo=Sitio-Web-Banda-INNER&theme=dark&show_owner=false)](https://github.com/victoriavmc/Sitio-Web-Banda-INNER)
+## 🌱 Proyecto Actual: *STOCKER*  
+Actualmente trabajando en sistema de stock. (En Livewire)
 
 ---
   
