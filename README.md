@@ -105,8 +105,8 @@ Crear una plataforma interactiva y escalable para gestionar contenido, eventos y
 ### 🛠️ Tecnologías  
 - **PHP**, **Laravel**, **TailwindCSS**.  
 
-## 🌱 Proyecto Actual: *STOCKER*  
-Actualmente trabajando en sistema de stock. (En Livewire)
+## 🌱 Proyecto Actual: *Fixtech*  
+Actualmente trabajando en sistema de Fixtech. 
 
 ---
   
