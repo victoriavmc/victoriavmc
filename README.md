@@ -103,10 +103,10 @@ Crear una plataforma interactiva y escalable para gestionar contenido, eventos y
 - Integración con redes sociales (Spotify, Instagram, YouTube).  
 
 ### 🛠️ Tecnologías  
-- **PHP**, **Laravel**, **TailwindCSS**.  
+- **PHP**, **Laravel**, **TailwindCSS**. **API** 
 
-## 🌱 Proyecto Actual: *Fixtech*  
-Actualmente trabajando en sistema de Fixtech. 
+## 🌱 Proyecto Actual: *PinkMuse y para Pulmolab*  
+Actualmente trabajando en sistema de PinkMuse. Mejorando "LA BANDA" 
 
 ---
   
