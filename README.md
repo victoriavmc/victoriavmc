@@ -91,22 +91,13 @@
   ---
 </details>
 
-## 🚀 Proyecto Destacado: *LA BANDA*  
+## 🚀 Proyecto Destacado: *GLUCOLUME*  
 
 ### 📌 Objetivo  
-Crear una plataforma interactiva y escalable para gestionar contenido, eventos y una comunidad de fans de una banda.  
-
-### 🎯 Funcionalidades destacadas  
-- Gestión dinámica de contenido (noticias, eventos, multimedia).  
-- Foro interactivo para fans.  
-- Sistema de suscripción integrado con *Mercado Pago*.  
-- Integración con redes sociales (Spotify, Instagram, YouTube).  
+RECIBIRME, Y ES UN PROYECTO DE LA PUTA MADRE Y GIGANTE JEJEJE  
 
 ### 🛠️ Tecnologías  
-- **PHP**, **Laravel**, **TailwindCSS**. **API** 
-
-## 🌱 Proyecto Actual: *PinkMuse y para Pulmolab*  
-Actualmente trabajando en sistema de PinkMuse. Mejorando "LA BANDA" 
+NO ME LIMITO CON LOGICA E IA TODO ES POSIBLE
 
 ---
   
