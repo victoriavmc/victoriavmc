@@ -97,7 +97,7 @@
 RECIBIRME, Y ES UN PROYECTO DE LA PUTA MADRE Y GIGANTE JEJEJE  
 
 ### 🛠️ Tecnologías  
-NO ME LIMITO CON LOGICA E IA TODO ES POSIBLE
+La lógica es mi base, la IA es una herramienta y aprender nuevas tecnologías es parte del desafío.
 
 ---
   
